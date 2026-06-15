@@ -15,17 +15,17 @@ easier, happier or safer. Ideally all three at once! 🚀
 - Responsive design & accessibility
 - Git & GitHub workflow
 
-## Where I'm Headed
-
-Working towards becoming an ethical fullstack developer with potentialy a long term 
-interest in AI development.
-
-## A Bit About Me
+## My interest
 
 - 🌍 I am a Polyglot (5 languages)
 - 🧠 Systems thinker I find patterns and build processes in everything I do
 - 💻 Tech enthusiast who believes technology should serve people
 - 👽 Looking forward to collaborate on exciting projects
+
+## Where I'm Headed
+
+Working towards becoming an ethical fullstack developer with potentialy a long term 
+interest in AI development.
 
 ## Currently Building
 
